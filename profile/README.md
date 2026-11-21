@@ -6,7 +6,7 @@
 
 ## What we're building
 
-ZapoCuts is a platform for booking haircuts and managing walk-in queues. It connects customers with nearby barber shops and gives shops simple tools to run appointments and queues without changing how they already work.
+Zapocuts is a platform for booking haircuts and managing walk-in queues. It connects customers with nearby barber shops and gives shops simple tools to run appointments and queues without changing how they already work.
 
 The platform is currently in development.
 
@@ -60,6 +60,6 @@ This is our planned stack. It will change as we build and learn.
 
 ## About us
 
-ZapoCuts is an early-stage technology startup based in India. We're a small team that cares about readable code, careful reviews and shipping software people can depend on.
+Zapocuts is an early-stage technology startup based in India. We're a small team that cares about readable code, careful reviews and shipping software people can depend on.
 
 Our contribution guidelines, code of conduct and security policy apply to all ZapoCuts repositories. To report a security issue, please follow our security policy and do not open a public issue.
