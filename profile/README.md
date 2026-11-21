@@ -1,10 +1,8 @@
-<h1 align="center">ZapoCuts</h1>
-
-<p align="center">
-  Barber booking and queue management for customers and barber shops in India.
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="ZAPOCUTS: barber booking and queue management" src="assets/banner-light.svg" width="100%">
+</picture>
 
 ## What we're building
 
@@ -13,6 +11,12 @@ ZapoCuts is a platform for booking haircuts and managing walk-in queues. It conn
 The platform is currently in development.
 
 ## What the platform aims to do
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/how-it-works-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/how-it-works-light.svg">
+  <img alt="How it works: discover shops, book an appointment, check in for a queue token, then track your turn." src="assets/how-it-works-light.svg" width="100%">
+</picture>
 
 **For customers**
 
